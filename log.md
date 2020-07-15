@@ -2,9 +2,9 @@
 
 ### Day 0: July 14, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finally finished and deployed my blogging app.
 
-**Thoughts:** 
+**Thoughts:**  The project itself was not that hard, as much as deploying it was!
 
-**Link to work:** 
+**Link to work:** https://shrey27tri01.pythonanywhere.com
 
