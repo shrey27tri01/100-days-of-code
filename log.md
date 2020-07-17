@@ -16,3 +16,23 @@
 
 **Link to work:** https://learningweek.upgrad.com/
 
+### Day 2: July 16, 2020
+
+**Today's Progress**: Learnt about regular expressions in python.  
+
+**Thoughts:**  Regular expressions are really very hard to grasp!
+
+**Link to work:** https://docs.python.org/3/library/re.html
+
+### Day 3: July 17, 2020
+
+**Today's Progress**: Learnt about bash scripting, and how we can use bash scripting to do amazing things in our OS. Also used python to automate some stuff. 
+
+**Thoughts:**  Bash scripting is a really interesting and underrated topic, indeed!
+
+**Link to work:** https://www.tutorialspoint.com/unix/shell_scripting.html
+
+
+
+
+
