@@ -32,6 +32,14 @@
 
 **Link to work:** https://www.tutorialspoint.com/unix/shell_scripting.html
 
+### Day 4: July 18, 2020
+
+**Today's Progress**: Started working on my Django project, something like wikipedia, but without a database!
+
+**Thoughts:**  Django's not as simple as it seems to be!
+
+**Link to work:** No link yet...
+
 
 
 
