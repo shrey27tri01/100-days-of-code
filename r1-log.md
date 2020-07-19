@@ -18,4 +18,8 @@ Learnt about regular expressions in python.
 
 Learnt about bash scripting, and how we can use bash scripting to do amazing things in our OS. Also used python to automate some stuff. 
 
+### R1D4(July 18, 2020)
+
+Started working on my Django project, something like wikipedia, but without a database!
+
 
