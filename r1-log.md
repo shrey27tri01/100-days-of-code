@@ -22,4 +22,9 @@ Learnt about bash scripting, and how we can use bash scripting to do amazing thi
 
 Started working on my Django project, something like wikipedia, but without a database!
 
+### R1D5(July 19, 2020)
+
+Made a python script to apply filters to images in python using the PIL(Python Image Library) or pillow.
+
+
 
