@@ -40,6 +40,14 @@
 
 **Link to work:** No link yet...
 
+### Day 5: July 19, 2020
+
+**Today's Progress**: Made a python script to apply filters to images in python using the PIL(Python Image Library) or pillow.
+
+**Thoughts:**  Honestly, python makes life a lot more simpler!
+
+**Link to work:** No link yet...
+
 
 
 
