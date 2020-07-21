@@ -49,6 +49,15 @@
 **Link to work:** No link yet...
 
 
+### Day 6: July 20, 2020
+
+**Today's Progress**: Completed the Google IT Automation with Python course, and made a script to automate handling of products for a fruit seller, automating stuff like sending emails, generating reports regarding the products and checking health of the system.
+
+**Thoughts:**  Pretty proud of myself!
+
+**Link to work:**  https://github.com/shrey27tri01/automation
+
+
 
 
 
