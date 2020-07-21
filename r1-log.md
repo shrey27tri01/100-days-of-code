@@ -26,5 +26,9 @@ Started working on my Django project, something like wikipedia, but without a da
 
 Made a python script to apply filters to images in python using the PIL(Python Image Library) or pillow.
 
+### R1D6(July 20, 2020)
+
+Completed the Google IT Automation with Python course, and made a script to automate handling of products for a fruit seller, automating stuff like sending emails, generating reports regarding the products and checking health of the system.
+
 
 
