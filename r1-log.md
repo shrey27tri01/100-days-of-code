@@ -30,5 +30,9 @@ Made a python script to apply filters to images in python using the PIL(Python I
 
 Completed the Google IT Automation with Python course, and made a script to automate handling of products for a fruit seller, automating stuff like sending emails, generating reports regarding the products and checking health of the system.
 
+### R1D7(July 21, 2020)
+
+Completed my Django wiki project. A wikipedia like online encyclopedia, which renders markdown content into html, and displays it to the user. Users can also ad and edit existing pages.
+
 
 
