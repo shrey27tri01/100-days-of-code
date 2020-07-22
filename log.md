@@ -57,6 +57,14 @@
 
 **Link to work:**  https://github.com/shrey27tri01/automation
 
+### Day 7: July 21, 2020
+
+**Today's Progress**: Completed my Django wiki project. A wikipedia like online encyclopedia, which renders markdown content into html, and displays it to the user. Users can also ad and edit existing pages.
+
+**Thoughts:** This one was quite easy, though.
+
+**Link to work:**  https://github.com/shrey27tri01/wiki
+
 
 
 
