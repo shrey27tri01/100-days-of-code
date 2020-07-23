@@ -34,5 +34,9 @@ Completed the Google IT Automation with Python course, and made a script to auto
 
 Completed my Django wiki project. A wikipedia like online encyclopedia, which renders markdown content into html, and displays it to the user. Users can also ad and edit existing pages.
 
+### R1D8(July 22, 2020)
+
+Progressed on the flask blog application, and made a text based adventure game in python, although still a lot of work to do there!
+
 
 
