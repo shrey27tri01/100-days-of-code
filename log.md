@@ -65,6 +65,14 @@
 
 **Link to work:**  https://github.com/shrey27tri01/wiki
 
+### Day 8: July 22, 2020
+
+**Today's Progress**: Progressed on the flask blog application, and made a text based adventure game in python, although still a lot of work to do there!
+
+**Thoughts**: Text based fiction is not as bad as it seemed to be!
+
+**Link to work:** Nothing yet.....
+
 
 
 
