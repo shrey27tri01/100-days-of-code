@@ -38,5 +38,9 @@ Completed my Django wiki project. A wikipedia like online encyclopedia, which re
 
 Progressed on the flask blog application, and made a text based adventure game in python, although still a lot of work to do there!
 
+### R1D9(July 23, 2020)
+
+Almost halfway through the blog app, and started working on my portfolio.
+
 
 
