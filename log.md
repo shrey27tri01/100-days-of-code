@@ -73,13 +73,22 @@
 
 **Link to work:** Nothing yet.....
 
-### Day 9: July 22, 2020
+### Day 9: July 23, 2020
 
 **Today's Progress**: Almost halfway through the blog app, and started working on my portfolio.
 
 **Thoughts**: There's a lot of work to be done on the portfolio!
 
 **Link to work:** https://www.youtube.com/watch?v=_xkSvufmjEs&list=PLioluFxEXKvurGTiOa4dgNDU7arLlV1Lf&index=27&t=877s
+
+### Day 10: July 24, 2020
+
+**Today's Progress**: Completed Blog, almost halfway through the portfolio.
+
+**Thoughts**: Didn't know why I made the blog app.
+
+**Link to work:** https://github.com/shrey27tri01/blogapp
+
 
 
 
