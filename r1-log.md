@@ -42,5 +42,9 @@ Progressed on the flask blog application, and made a text based adventure game i
 
 Almost halfway through the blog app, and started working on my portfolio.
 
+### R1D10(July 24, 2020)
+
+Completed Blog, almost halfway through the portfolio.
+
 
 
