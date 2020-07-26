@@ -46,5 +46,9 @@ Almost halfway through the blog app, and started working on my portfolio.
 
 Completed Blog, almost halfway through the portfolio.
 
+### R1D11(July 25, 2020)
+
+Portfolio almost complete.
+
 
 
