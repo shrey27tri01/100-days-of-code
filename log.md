@@ -89,6 +89,14 @@
 
 **Link to work:** https://github.com/shrey27tri01/blogapp
 
+### Day 11: July 25, 2020
+
+**Today's Progress**: Portfolio almost complete.
+
+**Thoughts**: Looking almost good, finishing touches remaining.
+
+**Link to work:** https://github.com/shrey27tri01/portfolio
+
 
 
 
