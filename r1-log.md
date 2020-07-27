@@ -54,7 +54,7 @@ Portfolio almost complete.
 
 Completed portfolio, deploying is left.
 
-### R1D13July 27 2020)
+### R1D13(July 27 2020)
 
 Completed and deployed portfolio, lot of work remains, though...
 
