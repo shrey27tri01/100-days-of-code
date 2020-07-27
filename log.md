@@ -97,6 +97,24 @@
 
 **Link to work:** https://github.com/shrey27tri01/portfolio
 
+### Day 12: July 26, 2020
+
+**Today's Progress**: Completed portfolio, deploying is left.
+
+**Thoughts**: Confused as hell.....
+
+**Link to work:** http://parameterizer.me/portfolio/
+
+### Day 13: July 27, 2020
+
+**Today's Progress**: Completed and deployed portfolio.
+
+**Thoughts**: A lot of work is left, though.........
+
+**Link to work:** http://parameterizer.me/portfolio/
+
+
+
 
 
 
