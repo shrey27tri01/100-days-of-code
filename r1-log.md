@@ -50,5 +50,13 @@ Completed Blog, almost halfway through the portfolio.
 
 Portfolio almost complete.
 
+### R1D12(July 26, 2020)
+
+Completed portfolio, deploying is left.
+
+### R1D13July 27 2020)
+
+Completed and deployed portfolio, lot of work remains, though...
+
 
 
