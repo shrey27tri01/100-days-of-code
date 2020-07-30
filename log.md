@@ -121,7 +121,7 @@
 
 **Link to work:** No link
 
-### Day 14: July 29, 2020
+### Day 15: July 29, 2020
 
 **Today's Progress**: Started learning react from cs50.
 
