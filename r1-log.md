@@ -58,5 +58,13 @@ Completed portfolio, deploying is left.
 
 Completed and deployed portfolio, lot of work remains, though...
 
+### R1D14(July 28 2020)
+
+Completed the first course of the discrete mathematics specialization on coursera.
+
+### R1D15(July 29 2020)
+
+Started learning react from cs50.
+
 
 
