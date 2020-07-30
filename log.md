@@ -113,6 +113,22 @@
 
 **Link to work:** http://parameterizer.me/portfolio/
 
+### Day 14: July 28, 2020
+
+**Today's Progress**: Completed the first course of the discrete mathematics specialization on coursera.
+
+**Thoughts**: Maths is not that bad after all....
+
+**Link to work:** No link
+
+### Day 14: July 29, 2020
+
+**Today's Progress**: Started learning react from cs50.
+
+**Thoughts**: React is powerful, indeed...
+
+**Link to work:** No link...
+
 
 
 
