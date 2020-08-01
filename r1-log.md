@@ -68,7 +68,7 @@ Started learning react from cs50.
 
 ### R1D16(July 30 2020)
 
-Went through the HUG process of setting up React on my laptop.......
+Went through the HUGE process of setting up React on my laptop.......
 
 ### R1D17(July 31 2020)
 
