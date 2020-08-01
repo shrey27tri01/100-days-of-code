@@ -129,6 +129,22 @@
 
 **Link to work:** No link...
 
+### Day 16: July 30, 2020
+
+**Today's Progress**: Went through the HUG process of setting up React on my laptop.......
+
+**Thoughts**: Sadly, took my whole day :(
+
+**Link to work**: Nothing...:(
+
+### Day 17: July 31, 2020
+
+**Today's Progress**: Nothing much..........
+
+**Thoughts**: Break...
+
+**Link to work**: Nothing...:(
+
 
 
 
