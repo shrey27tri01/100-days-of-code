@@ -66,5 +66,11 @@ Completed the first course of the discrete mathematics specialization on courser
 
 Started learning react from cs50.
 
+### R1D16(July 30 2020)
 
+Went through the HUG process of setting up React on my laptop.......
+
+### R1D17(July 31 2020)
+
+Nothing much..........
 
