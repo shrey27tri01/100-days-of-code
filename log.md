@@ -145,6 +145,30 @@
 
 **Link to work**: Nothing...:(
 
+### Day 18: August 01, 2020
+
+**Today's Progress**: Started working on the twitter clone
+
+**Thoughts**: There's a lot of work to do!
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone
+
+### Day 19: August 02, 2020
+
+**Today's Progress**: Made the tweets model, the users can add tweets!
+
+**Thoughts**: Not as easy as I thought
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone
+
+### Day 20: August 03, 2020
+
+**Today's Progress**: Added RESTful viesw and APIs instead of normal ones 
+
+**Thoughts**: RESTful APIs make life a lot more easier
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone
+
 
 
 
