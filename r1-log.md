@@ -74,3 +74,16 @@ Went through the HUGE process of setting up React on my laptop.......
 
 Nothing much..........
 
+### R1D18(August 01 2020)
+
+Started working on the twitter clone
+
+### R1D19(August 02 2020)
+
+Made the tweets model, the users can add tweets!
+
+### R1D20(August 03 2020)
+
+Added RESTful viesw and APIs instead of normal ones 
+
+
