@@ -86,4 +86,9 @@ Made the tweets model, the users can add tweets!
 
 Added RESTful viesw and APIs instead of normal ones 
 
+### R1D21(August 04 2020)
+
+Added testing framework my tweets api
+
+
 
