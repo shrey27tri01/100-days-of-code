@@ -169,6 +169,14 @@
 
 **Link to work**: https://github.com/shrey27tri01/twitter-clone
 
+### Day 21: August 04, 2020
+
+**Today's Progress**: Added testing framework my tweets api
+
+**Thoughts**: RESTful APIs make life a lot more easier, really!!
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone/commits/a67ff2befb7b02d3fa9a6d93097507615c31eb8f
+
 
 
 
