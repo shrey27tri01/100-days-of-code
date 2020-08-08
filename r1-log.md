@@ -88,7 +88,22 @@ Added RESTful viesw and APIs instead of normal ones
 
 ### R1D21(August 04 2020)
 
-Added testing framework my tweets api
+Added testing framework to the tweets api
 
+### R1D22(August 05 2020)
+
+Integrated React with Django.
+
+### R1D23(August 06 2020)
+
+Made forms and tweets, likes retweets and unlike functionality.
+
+### R1D24(August 07 2020)
+
+Made a more efficient lookup against tweets to render them out 
+
+### R1D25(August 08 2020)
+
+Made my first pull request to open source [here](https://github.com/danthareja/contribute-to-open-source/pull/941#issue-465004267)!
 
 
