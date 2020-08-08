@@ -177,6 +177,42 @@
 
 **Link to work**: https://github.com/shrey27tri01/twitter-clone/commits/a67ff2befb7b02d3fa9a6d93097507615c31eb8f
 
+### Day 22: August 05, 2020
+
+**Today's Progress**: Integrated React with Django.
+
+**Thoughts**: And now nothing is working :( It wasn't supposed to, anyway :)
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone/commit/2d8958d1dbea2cccbcc283d905d07277bc95abfc
+
+### Day 23: August 06, 2020
+
+**Today's Progress**: Made forms and tweets, likes retweets and unlike functionality.
+
+**Thoughts**: A lot of work left!
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone/commit/2d8958d1dbea2cccbcc283d905d07277bc95abfc
+
+### Day 24: August 07, 2020
+
+**Today's Progress**: Made a more efficient lookup against tweets to render them out 
+
+**Thoughts**: Starting to look good!
+
+**Link to work**: https://github.com/shrey27tri01/twitter-clone/commit/2d8958d1dbea2cccbcc283d905d07277bc95abfc
+
+### Day 25: August 08, 2020
+
+**Today's Progress**: Made my first pull request to open source!
+
+**Thoughts**: Exciting!
+
+**Link to work**: https://github.com/danthareja/contribute-to-open-source/pull/941#issue-465004267
+
+
+
+
+
 
 
 
